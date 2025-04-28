@@ -1,0 +1,10 @@
+C:\Github\EnvironmentControlinator\VoiceInfra\bin\Debug\netcoreapp3.1\VoiceInfra.deps.json
+C:\Github\EnvironmentControlinator\VoiceInfra\bin\Debug\netcoreapp3.1\VoiceInfra.dll
+C:\Github\EnvironmentControlinator\VoiceInfra\bin\Debug\netcoreapp3.1\VoiceInfra.pdb
+C:\Github\EnvironmentControlinator\VoiceInfra\obj\Debug\netcoreapp3.1\VoiceInfra.AssemblyInfoInputs.cache
+C:\Github\EnvironmentControlinator\VoiceInfra\obj\Debug\netcoreapp3.1\VoiceInfra.AssemblyInfo.cs
+C:\Github\EnvironmentControlinator\VoiceInfra\obj\Debug\netcoreapp3.1\VoiceInfra.csproj.CoreCompileInputs.cache
+C:\Github\EnvironmentControlinator\VoiceInfra\obj\Debug\netcoreapp3.1\VoiceInfra.dll
+C:\Github\EnvironmentControlinator\VoiceInfra\obj\Debug\netcoreapp3.1\VoiceInfra.pdb
+C:\Github\EnvironmentControlinator\VoiceInfra\obj\Debug\netcoreapp3.1\VoiceInfra.csproj.AssemblyReference.cache
+C:\Github\EnvironmentControlinator\VoiceInfra\obj\Debug\netcoreapp3.1\VoiceInfra.GeneratedMSBuildEditorConfig.editorconfig
