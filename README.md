@@ -4,6 +4,6 @@ A ideia é permitir que os comandos que vc usa pra jogar interajam com o ambient
 
 https://www.instagram.com/p/CPdUQxYDDUa/
 
-Mas dava pra alterar a cor do ambiente qnd estava sem açãod o jogador com base no texto digitado no chat da twitch tbem, da uma olhada nos comandos que tem no codigo :) 
+Mas dava pra alterar a cor do ambiente qnd estava sem ação do jogador com base no texto digitado no chat da twitch tbem, da uma olhada nos comandos que tem no codigo :) 
 
 Doido a vida neh?
